@@ -1,6 +1,6 @@
 ## Hi there 👋😎
 
-I'm Ryan Oliveira, I'm a front end programmer, I'm studying and creating projects with:
+I'm Ryan Oliveira, I'm a Full-Stack programmer, I'm studying and creating projects with:
  <br>
  <br>
  - <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt= "logo-HTML" />
