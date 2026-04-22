@@ -1,4 +1,4 @@
-## Hi there 👋😎
+## Hi there 👋
 
 I'm Ryan Oliveira, I'm a Full-Stack programmer, I'm studying and creating projects with:
  <br>
